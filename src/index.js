@@ -116,6 +116,7 @@ function Menu() {
   );
 }
 
+//TEST: GitHub changes test.
 //REMEMBER: the old way was just to pass in props, but now we pass in the destructured prop, specific prop.
 function Pizza({ pizzaObj }) {
   console.log(pizzaObj);
